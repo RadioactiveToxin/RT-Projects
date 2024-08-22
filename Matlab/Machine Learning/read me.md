@@ -1,1 +1,1 @@
-An Intelligent Algorithm For Lung Cancer Diagnosis using extracted features (MachineLearning, ImageProcessing).
+An Intelligent Algorithm For Lung Cancer Diagnosis using extracted features (Machine Learning, Image Processing).
